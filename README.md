@@ -14,13 +14,3 @@ I built this project to practice probability, randomization, and Python programm
   - Longest winning streak
   - Distribution of player scores
 
----
-
-## 🔹 Quick Start
-Clone the repo and run the simulation:
-
-```bash
-git clone https://github.com/fzh20041028-ctrl/blackjack-Python-Program.git
-cd blackjack-Python-Program
-
-python blackjack.py
